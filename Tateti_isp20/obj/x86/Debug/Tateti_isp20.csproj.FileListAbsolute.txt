@@ -1,0 +1,5 @@
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\Tateti_isp20\bin\Debug\Tateti_isp20.exe
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\Tateti_isp20\bin\Debug\Tateti_isp20.pdb
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\Tateti_isp20\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\Tateti_isp20\obj\x86\Debug\Tateti_isp20.exe
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\Tateti_isp20\obj\x86\Debug\Tateti_isp20.pdb

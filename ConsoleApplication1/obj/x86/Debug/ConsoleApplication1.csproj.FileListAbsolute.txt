@@ -1,0 +1,6 @@
+C:\Users\Alumno\AppData\Local\Temporary Projects\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+Z:\TECNICATURAS\Facundo Mazzaro\Pasantia C3\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
