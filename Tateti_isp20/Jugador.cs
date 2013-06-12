@@ -6,6 +6,7 @@ using System.Collections;
 
 namespace Tateti_isp20
 {
+    //comentario 2//
     public class Jugador
     {
         //declaramos las propiedades, como fichas//

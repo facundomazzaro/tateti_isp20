@@ -6,6 +6,7 @@ using System.Collections;
 
 namespace Tateti_isp20
 {
+    //comentario 3//
    public class Tablero
     {
        public Hashtable posiciones;
